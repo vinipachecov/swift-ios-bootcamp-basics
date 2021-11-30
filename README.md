@@ -12,6 +12,13 @@ Code used in [this course](https://www.udemy.com/course/ios-13-app-development-b
 
 ## UI positioning schemes
 
+
+### Positioning
+
+#### View
+Component that can nest a lot of components without a vertical or horizontal alignment enforced.
+
+Views can have a Safe Area embedded so the elements inside will have to respect some screen constraints. 
 ### Alignment
 
 Alignment is used when the developer requires to set an item aligned horizontally or vertically without setting fixed values like 30px and so on.
